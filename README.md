@@ -17,10 +17,8 @@
     </br>
 </div>
 
-</br>
-
 <p align="center">
-    </br><a href=https://www.linkedin.com/in/kyle-a-090008233/> <img src="/images/logos/linkedin.png" height=25></a>
+    </br><a href=https://www.linkedin.com/in/kyle-a-090008233/> <img src="/images/logos/linkedin.png" alt="LinkedIn logo" height=25></a>
 </p>
 
 <!--
