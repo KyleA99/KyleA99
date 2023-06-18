@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="justify">
-    I am Kyle Angelich, a software developer actively seeking roles as a full-stack developer/software engineer. Presently, I am focused on building a solid understanding of programming, JavaScript, HTML, CSS, and node.js. I am enthusiastic about utilizing my technical expertise, strong problem-solving abilities, and distinctive thinking approach to embark on a fulfilling career as a full-stack developer/software engineer.
+    My name is Kyle Angelich, a software developer actively seeking roles as a full-stack developer/software engineer. Presently, I am focused on building a solid understanding of programming, JavaScript, HTML, CSS, and node.js. I am enthusiastic about utilizing my technical expertise, strong problem-solving abilities, and distinctive thinking approach to embark on a fulfilling career as a full-stack developer/software engineer.
 </div>
 
 </br>
