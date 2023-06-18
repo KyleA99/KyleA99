@@ -10,6 +10,8 @@
     Currently I am working as a web developer/software engineer at Childhood Cancer Society, a volunteer-run 501(c)(3) non-profit dedicated to helping families struggling with childhood cancer.
 </div>
 
+</br>
+
 <div align="justify">
     If you wish to contact me regarding job openings or opportunities for collaboration, kindly click on the provided LinkedIn link.
     </br>
