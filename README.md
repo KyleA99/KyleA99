@@ -15,8 +15,13 @@
 <div align="justify">
     If you wish to contact me regarding job openings or opportunities for collaboration, kindly click on the provided LinkedIn link.
     </br>
-    </br><a href=https://www.linkedin.com/in/kyle-a-090008233/> <img src="/images/logos/linkedin.png" height=25></a>
 </div>
+
+</br>
+
+<p align="center">
+    </br><a href=https://www.linkedin.com/in/kyle-a-090008233/> <img src="/images/logos/linkedin.png" height=25></a>
+</p>
 
 <!--
 **KyleA99/KyleA99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
