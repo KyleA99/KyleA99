@@ -1,13 +1,7 @@
 ### Hi there 👋
 
 <div align="justify">
-    My name is Kyle, I'm a software developer actively seeking roles as a full-stack developer/software engineer. Presently, I am focused on building a solid understanding of programming, JavaScript, HTML, CSS, and node.js. I am enthusiastic about utilizing my technical expertise, strong problem-solving abilities, and distinctive thinking approach to embark on a fulfilling career as a full-stack developer/software engineer.
-</div>
-
-</br>
-
-<div align="justify">
-    Currently I am working as a web developer/software engineer at Childhood Cancer Society, a volunteer-run 501(c)(3) non-profit dedicated to helping families struggling with childhood cancer.
+    My name is Kyle. I'm a software developer currently building open-source software.
 </div>
 
 </br>
