@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="justify">
-    My name is Kyle. I'm a software developer currently working with Laravel, PHP, and MySQL at work.  Outside of work I am working through boot.dev to learn python and typescript, while building open-source software for <a href="https://www.hackforla.org/">Hack for LA</a>
+    My name is Kyle. I'm a software developer currently working with Laravel, PHP, and MySQL at work.  Outside of work I am working through boot.dev to learn python and typescript, while building open-source software for <a href="https://www.hackforla.org/">Hack for LA</a>.
 </div>
 
 </br>
